@@ -2,7 +2,7 @@
 
 Research questions:
 
-Did movies or shows that are on Netflix get better over the years?
+Daniel: Do movies or shows on Netflix with older release years have better average IMDb ratings?
 
 Did the runtime of movies or shows that are on Netflix change over the years?
 
