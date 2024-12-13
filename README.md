@@ -10,4 +10,4 @@ Did the amount of imdb votes for movies or shows that are on Netflix change over
 
 Kaniz: Is there a relationship between the number of votes and the movie or show rating?
 
-Abdelrahman: How did the ratings for movies or shows change over time?
+Abdelrahman: Do movies or shows on Netflix with older release years have more votes on IMDb ?
