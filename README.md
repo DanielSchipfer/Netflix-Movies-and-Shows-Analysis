@@ -8,9 +8,9 @@ Daniel: Q2: Do movies (a) or shows (b) on Netflix with a more positive descripti
 
 Daniel: Q3: Do movies or shows on Netflix get better IMDb ratings (a) or more IMDb votes (b)?
 
-Did the runtime of movies or shows that are on Netflix change over the years?
+Moni: Did the runtime of movies or shows that are on Netflix change over the years?
 
-Did the amount of imdb votes for movies or shows that are on Netflix change over the years?
+Moni: Did the amount of imdb votes for movies or shows that are on Netflix change over the years?
 
 Kaniz: Is there a relationship between the number of votes and the movie (a) or show rating (b)?
 
