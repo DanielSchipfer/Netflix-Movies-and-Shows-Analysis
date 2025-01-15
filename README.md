@@ -1,19 +1,15 @@
 # Netflix-Movies-and-Shows-Analysis
+## This Notebook aims to answer the following questions:
+**Q1: Do movies (a) or shows (b) on Netflix with an older release year have a better average IMDb ratings?**
 
-Research questions:
+**Q2: Do movies (a) or shows (b) on Netflix with a more positive description get better IMDb ratings?**
 
-Daniel: Q1: Do movies (a) or shows (b) on Netflix with an older release year have a better average IMDb ratings?
+**Q3: Do movies or shows on Netflix get better IMDb ratings (a) or more IMDb votes (b) and do they differ in runtime (c)?**
 
-Daniel: Q2: Do movies (a) or shows (b) on Netflix with a more positive description get better IMDb ratings?
+**Q4: Did the runtime of movies (a) or shows (b) that are on Netflix change over the years?**
 
-Daniel: Q3: Do movies or shows on Netflix get better IMDb ratings (a) or more IMDb votes (b) and do they differ in runtime (c)?
+**Q5: Did the amount of imdb votes for movies (a) or shows (b) that are on Netflix change over the years?**
 
-Moni: Did the runtime of movies or shows that are on Netflix change over the years?
+**Q6: What is the relationship between the imdb ratings and the amount of imdb votes for movies (a) or shows (b) on Netflix?**
 
-Moni: Did the amount of imdb votes for movies or shows that are on Netflix change over the years?
-
-Kaniz: Is there a relationship between the number of votes and the movie (a) or show rating (b)?
-
-Is there a relationship between the runtime and the movie (a) or show (a) rating?
-
-Abdelrahman: Do movies or shows on Netflix with older release years have more votes on IMDb ?
+**Q7: What is the relationship between runtime and the imdb rating  for movies (a) or shows (b) on Netflix?**
