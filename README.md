@@ -1,6 +1,6 @@
 # Netflix-Movies-and-Shows-Analysis
 ## This Notebook aims to answer the following questions:
-**Q1: Do movies (a) or shows (b) on Netflix with an older release year have a better average IMDb ratings?**
+**Q1: Do movies (a) or shows (b) on Netflix with an older release year have better average IMDb ratings?**
 
 **Q2: Do movies (a) or shows (b) on Netflix with a more positive description get better IMDb ratings?**
 
